@@ -14,8 +14,6 @@ acerca de temas matemáticos y entender sus conceptos.
 
 Por el momento está alojado en Wordpress, pero más adelante desearía alojarlo en un dominio propio y con un diseño y desarrollo de web también propio.
 
-Mi esperanza con este proyecto es poder brindar una explicación de los conceptos a la gente que lo visite y potencialmente darles un nivel pre-universitario para dichas personas.
-
 No dudes en visitarlo 😼
 ##
 
