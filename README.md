@@ -9,12 +9,6 @@ Tengo 18 años y desde los 14 más o menos encontré cierta pasión por las mate
 Fue un día que un profesor de matemáticas de mi Bachillerato al cual respeto mucho, me dijo que tendría potencial para ser programador, lo cual me inspiró a elegir este mundo.
 Actualmente estoy estudiando para formarme como profesional en el mundo del desarrollo. Cada día se aprende algo más.
 
-Aunque no tenga que ver especialmente con programación, tengo un blog en Wordpress llamado [**Matemáticas con Sonistwo**](https://matesconsonistwo.wordpress.com/) en el cual publicaré periódicamente
-acerca de temas matemáticos y entender sus conceptos.
-
-Por el momento está alojado en Wordpress, pero más adelante desearía alojarlo en un dominio propio y con un diseño y desarrollo de web también propio.
-
-No dudes en visitarlo 😼
 ##
 
 ## Tecnologías que manejo actualmente
