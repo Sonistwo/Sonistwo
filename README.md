@@ -1,10 +1,10 @@
 # Buenas, me llamo Samuel. 👋
 
-## Estudiante de tercer semestre de Desarrollo de Software
+## Estudiante de Desarrollo de Software
 
 Actualmente soy estudiante de cuarto semetre de Desarrollo de Software (y más adelante, Ingenieria de Sistemas).
 
-Tengo 18 años y desde los 14 años de edad, más o menos, encontré cierta pasión por las matemáticas. Pero esta pasión no me serviría de mucho por sí sola por lo que decidí adentrarme en la programación.
+Desde los 14 años de edad, más o menos, encontré cierta pasión por las matemáticas. Pero esta pasión no me serviría de mucho por sí sola por lo que decidí adentrarme en la programación.
 
 Fue un día que un profesor de matemáticas de mi Bachillerato al cual respeto mucho, me dijo que tendría potencial para ser programador, lo cual me inspiró a elegir este mundo.
 Actualmente estoy estudiando para formarme como profesional en el mundo del desarrollo. Cada día se aprende algo más.
@@ -19,12 +19,12 @@ Actualmente estoy estudiando para formarme como profesional en el mundo del desa
 
 ![GITHUB](https://github.com/Sonistwo/Sonistwo/blob/main/Recursos/github.png) GitHub -- Alojamiento y colaboración de proyectos básico con GitHub.
 
+![DB](https://github.com/Sonistwo/Sonistwo/blob/main/Recursos/bd.png) Bases de datos -- Aprender sobre bases de datos relacionales y no relacionales y gestores.
+
 
 ##
 
 ## Tecnologías a aprender
-
-![DB](https://github.com/Sonistwo/Sonistwo/blob/main/Recursos/bd.png) Bases de datos -- Aprender sobre bases de datos relacionales y no relacionales y gestores.
 
 ![HTML, CSS, JS](https://github.com/Sonistwo/Sonistwo/blob/main/Recursos/html%20css%20js.png) HTML, CSS, Javascript -- Pilares del desarrollo web.
 
