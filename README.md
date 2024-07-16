@@ -21,14 +21,6 @@ Actualmente estoy estudiando para formarme como profesional en el mundo del desa
 
 ![DB](https://github.com/Sonistwo/Sonistwo/blob/main/Recursos/bd.png) Bases de datos -- Aprender sobre bases de datos relacionales y no relacionales y gestores.
 
-
-##
-
-## Tecnologías a aprender
-
-![HTML, CSS, JS](https://github.com/Sonistwo/Sonistwo/blob/main/Recursos/html%20css%20js.png) HTML, CSS, Javascript -- Pilares del desarrollo web.
-
-
 ##
 
 ## Contacto
