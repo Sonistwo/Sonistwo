@@ -1,6 +1,6 @@
 # Buenas, me llamo Samuel. 👋
 
-## Estudiante de Desarrollo de Software
+## Desarrollador de Software
 
 Actualmente soy estudiante de cuarto semetre de Desarrollo de Software (y más adelante, Ingenieria de Sistemas).
 
@@ -8,18 +8,6 @@ Desde los 14 años de edad, más o menos, encontré cierta pasión por las matem
 
 Fue un día que un profesor de matemáticas de mi Bachillerato al cual respeto mucho, me dijo que tendría potencial para ser programador, lo cual me inspiró a elegir este mundo.
 Actualmente estoy estudiando para formarme como profesional en el mundo del desarrollo. Cada día se aprende algo más.
-
-##
-
-## Tecnologías que manejo actualmente
-
-![JAVA SE](https://github.com/Sonistwo/Sonistwo/blob/main/Recursos/java.png) Java SE (Standard Edition) -- Manejo de Java SE (POO y Estructuras de datos) e interfaces Swing de nivel básico.
-
-![GIT](https://github.com/Sonistwo/Sonistwo/blob/main/Recursos/git.png) Git -- Manejo básico de control de versiones con Git.
-
-![GITHUB](https://github.com/Sonistwo/Sonistwo/blob/main/Recursos/github.png) GitHub -- Alojamiento y colaboración de proyectos básico con GitHub.
-
-![DB](https://github.com/Sonistwo/Sonistwo/blob/main/Recursos/bd.png) Bases de datos -- Aprender sobre bases de datos relacionales y no relacionales y gestores.
 
 ##
 
