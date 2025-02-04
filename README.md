@@ -4,10 +4,9 @@
 
 Actualmente soy estudiante de cuarto semetre de Desarrollo de Software (y más adelante, Ingenieria de Sistemas).
 
-Desde los 14 años de edad, más o menos, encontré cierta pasión por las matemáticas. Pero esta pasión no me serviría de mucho por sí sola por lo que decidí adentrarme en la programación.
-
-Fue un día que un profesor de matemáticas de mi Bachillerato al cual respeto mucho, me dijo que tendría potencial para ser programador, lo cual me inspiró a elegir este mundo.
 Actualmente estoy estudiando para formarme como profesional en el mundo del desarrollo. Cada día se aprende algo más.
+
+Me estoy centrando en el desarrollo backend pero en un futuro quizá poder hacer sistemas completos como fullstack.
 
 ##
 
